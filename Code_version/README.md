@@ -10,13 +10,13 @@
 
 ## V1.0.py
 
-這是加上特效後的第一版，使用的特效是淡化，效果如下：
+這是用 for 迴圈優化過的版本，效果如下：
 
 ![image](https://github.com/happpycorn/Mirro_detectMove/blob/main/Image/V1.0Image.gif)
 
 ## V2.0.py
 
-把 V1.0 加上拉桿與一些可以調的參數後，就變成了 V2.0。
+把 V1.0 加上拉桿與一些可以調的參數後，就變成了 V2.0。效果如下：
 
 ## V3.0.py
 
