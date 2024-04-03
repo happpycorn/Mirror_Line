@@ -14,7 +14,7 @@
 
 文化部的數位鏡面介紹：[https://cloud.culture.tw/frontsite/inquiry/emapInquiryAction.do?method=showEmapDetail&indexId=52441](https://cloud.culture.tw/frontsite/inquiry/emapInquiryAction.do?method=showEmapDetail&indexId=52441)
 
-image(https://www.husart.net/wp-content/uploads/2017/04/20170123-s068.jpg)
+![image](https://www.husart.net/wp-content/uploads/2017/04/20170123-s068.jpg)
 
 ## 實現方式
 
