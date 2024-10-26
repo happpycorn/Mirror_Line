@@ -64,3 +64,12 @@ $$\ \lim \limits_{K \to \frac{1}{16}sec}K = PLF^2$$
 後來過了許久之後，ChatGPT 出來了。我把它扔進 ChatGPT 後他給了我一個更為精簡的版本（把渲染的部分改成opencv本體），透過 Class 去達成整個操作，也更好搬運。但我沒有很喜歡這個版本
 
 ![V3.0](img/V3.0.png)
+
+## 其他鏡子...
+
+<a href="https://github.com/happpycorn/Mirror_detectMove">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Mirror_detectMove&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Mirror_Line">
+</a>
+<a href="https://github.com/happpycorn/Mirror_mix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Mirror_mix&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Mirror_mix">
+</a>
